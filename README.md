@@ -16,7 +16,9 @@
        E-mail: jkoyasa@espe.edu.ec, jdtixi@espe.edu.ec
        Noviembre 2020 – Abril 2021
        Fundamentos de Circuitos Eléctricos
+       
 ### 1.1 OBJETIVO DE LA PRÁCTICA
+
 #### Objetivo General
 Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
 Kirchhoff de Corrientes.
@@ -24,12 +26,14 @@ Apreciar y validar las leyes de Kirchhoff de voltajes y la Ley de Kirchhoff de c
 estudiadas en clase de fundamentos de circuitos eléctricos, para esto usar un circuito
 mixto que contiene una algunos resistores eléctricos en serie y paralelo y una fuente de
 voltaje, esto en laboratorios virtuales.
+
 #### Objetivos Específicos
  1. Demostrar las leyes de Kirchhoff para la corriente en cada nodo de nuestro circuito mixto.
  2. Demostrar la Ley de Kirchhoff para el voltaje en cada uno de los alzos del circuito mixto.
  3. Medir los valores de las resistencias y obtener los errores relativos en cada una de las mediciones.
  
  ### 1.2. MARCO TEÓRICO
+ 
 En el análisis de circuitos eléctricos con una o más fuentes de tensión no suele ser
 suficiente con emplear la ley de Ohm, entonces acudimos a las leyes de Kirchhoff que
 emplean una herramienta de notable importancia y utilidad en la obtención de los
@@ -66,6 +70,7 @@ de ramas de un circuito es igual al número de elementos de este.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/EjemploCircuito.png/300px-EjemploCircuito.png)
 
 #### 1.2.2. EXPLICACIÓN DE LAS LEYES DE KIRCHHOFF
+
 **Primera Ley: Ley de Corriente de Kirchhoff**
 
 En esta ley conocida también como ley de nodos, se basa en la ley de conservación de
@@ -83,6 +88,7 @@ lo cual implica que la suma algebraica de la energía producida dentro de un sis
 siempre permanece constante. Dicho de otra manera, la suma algebraica de las
 diferencias de potencial eléctrico en un circuito cerrado es igual a cero.
 Matemáticamente podemos expresarla como:
+
 ∑𝐸 = ∑𝐼 . 𝑅
 Si el sumatorio del segundo miembro lo pasamos al primer miembro nos queda:
 ∑𝐸 − ∑𝐼 .𝑅 = 0
@@ -108,12 +114,13 @@ vistas con anterioridad en este informe. No obstante, la relación aritmética e
 corriente y la atención permite inferir una tercera ley. 
 
 
-#### 5. Lista de componentes
+#### 5. LISTA DE COMPONENTES
 
 
 [](https://scontent.fuio16-1.fna.fbcdn.net/v/t1.0-9/132662491_217205329845511_1414132981932186572_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_eui2=AeEP6Omz-ZiqwfHzYs5hYZwTboempE_SKC5uh6akT9IoLt7XlQPKbHtnSGuFnDPWScYU42f_NiDIOK43CvGGuZXK&_nc_ohc=6RhA_xoz6fsAX859CJs&_nc_ht=scontent.fuio16-1.fna&oh=2a0f09f8c754383c869a57f78474b554&oe=60073C5A)
 
-#### 5.1 Explicación
+#### 5.1 EXPLICACIÓN 
+
 El circuito eléctrico está compuesto por una fuente voltaje de 10 V, una resistencia de 1
 kΩ, otra de 1.8 kΩ, una más de 3.9 kΩ y por último dos más de 2.2 kΩ.
 Para el armado del circuito, primero se conectó el polo positivo de la fuente de voltaje la
@@ -128,7 +135,8 @@ Este es un circuito mixto, que quiere decir que se usan simultáneamente las con
 en paralelo y en serie para los resistores eléctricos y estos a su vez se conectan a la fuente
 de tensión.
 
-#### 6.Precedimiento
+#### 6.PROCEDIMIENTO 
+
 1. Para este laboratorio, se procedio a la realizacion de la practica con la ayuda del simulador [Tinkercad](https://www.tinkercad.com/dashboard).
 
 
@@ -167,6 +175,7 @@ de tensión.
 Adjuntados en pdf
 
 #### 7. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+
 En este laboratorio era necesario tener los conocimientos de las Leyes de Kirchhoff, esto
 era necesario para el éxito de la práctica.
 Para poder medir cada una de las resistencias y llenar satisfactoriamente la tabla 1.1, se
@@ -178,7 +187,8 @@ multímetro al cual ya fue configurado previamente para que mida la corriente, e
 hacemos con todos y cada uno de los elementos del circuito
 
 #### 11. CONCLUSIONES
-**Conclusiones especificas**
+
+**Conclusiones específicas**
 Se pudo comprobar que la suma de las corrientes que entran en un nodo conformado por
 la unión de dos o más ramas de un circuito es igual a la suma de las corrientes que salen
 del mismo nodo, esto se da por la conservación de la carga.
@@ -194,6 +204,7 @@ comprueba además que hay una conservación de la carga en todo circuito eléctr
 conservación de la energía, ya que como bien sabemos la energía ni se crea ni se destruye
 solo se transforma y se transfiere. Además, podemos concluir que en toda resistencia
 existe una caída de voltaje, esto nos ayuda de una manera significativa en el cálculo.
+
 #### 12. BIBLIOGRAFÍA
 Alexander, S. M. (2006). Fundamento de Circuitos Eléctricos (Vol. 3ra Edición). The McGraw-Hill
 Companies Inc. Recuperado el 12 de Diciembre de 2020
