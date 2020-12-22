@@ -1,7 +1,7 @@
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
 ![](https://pbs.twimg.com/profile_images/712307087577993217/D8_89Lg4_400x400.jpg)
-##  LABORATORIO 1
+##                LABORATORIO 1
                                                                             
                                                                             
                                                                             
